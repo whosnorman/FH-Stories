@@ -29,7 +29,7 @@
 }
 
 .background.blue {
-	background-color: blue;
+	background-color: #e2dbd9;
 
 }
 
@@ -42,11 +42,11 @@
 	background-color: #f45165;
 }
 
-.in-sectionfirst .background.blue {
+.in-sectionbernie .background.blue {
 	opacity: 1;
 } 
 
-.in-sectionsecond .background.grey {
+.in-sectiongrey .background.grey {
 	opacity: 1;
 } 
 
@@ -57,9 +57,9 @@
 
 .container {
 	background: none;
+	margin-top: 150px;
 }
 
 body {
-	background: blue;
-	padding-top: 0;
+	background: #e2dbd9;
 }
