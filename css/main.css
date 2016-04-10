@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Champagne & Limousines';
+
+  src: url('../fonts/Champagne & Limousines.ttf');
+  src: url('../fonts/Champagne & Limousines Bold.ttf') format('truetype'), url('../fonts/Champagne & Limousines Bold Italic.ttf') format('truetype'), url('../fonts/Champagne & Limousines Italic.ttf') format('truetype');
+}
