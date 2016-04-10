@@ -33,19 +33,19 @@
     font-size: 30px;
 }
 .box{
-    width: 60px;
-    height: 5px;
-    margin-top: 10px;
+    width: 30px;
+    height: 3px;
+    margin-top: 5px;
     margin-bottom: 10px;
     margin-right: auto;
     background-color: black;
     border: solid 1px black;
 }
 .footer_box{
-    width: 60px;
-    height: 5px;
+    width: 30px;
+    height: 3px;
     margin: 0 auto;
-    margin-top: 15px;
+    margin-top: 10px;
     margin-bottom: 15px;
     background-color: black;
 }
@@ -57,13 +57,20 @@
     opacity: .5;
     margin-top: 5px;
 }
-.footer{
-    margin margin-left: auto;
+.footer_fade{
+    margin-left: auto;
     margin-top: auto;
     text-align: center;
     opacity: .5;
     margin-align: center;
 }
+.footer{
+    margin-left: auto;
+    margin-top: auto;
+    text-align: center;
+    margin-align: center;
+
+    }	
 .story-about{
 	margin-top: 30px;
 	width: 
