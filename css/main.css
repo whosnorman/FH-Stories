@@ -4,3 +4,68 @@
   src: url('../fonts/Champagne & Limousines.ttf');
   src: url('../fonts/Champagne & Limousines Bold.ttf') format('truetype'), url('../fonts/Champagne & Limousines Bold Italic.ttf') format('truetype'), url('../fonts/Champagne & Limousines Italic.ttf') format('truetype');
 }
+
+@font-face {
+  font-family: 'Avenir';
+  font-weight: 300;
+  src: url('../fonts/Avenir-Medium.ttf');
+}
+
+
+.container {
+  font-family: 'Avenir';
+  padding-right: 100px;
+  padding-left: 100px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.second_pic {
+  padding-right: 100px;
+  padding-left: 100px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.story-name{
+    margin-top: 25px;
+    font-family: 'Champagne & Limousines';
+    font-size: 30px;
+}
+.box{
+    width: 60px;
+    height: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: auto;
+    background-color: black;
+    border: solid 1px black;
+}
+.footer_box{
+    width: 60px;
+    height: 5px;
+    margin: 0 auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: black;
+}
+.story-head1{
+    opacity: .5;
+    margin-top: 20px;
+}
+.story-head2{
+    opacity: .5;
+    margin-top: 5px;
+}
+.footer{
+    margin margin-left: auto;
+    margin-top: auto;
+    text-align: center;
+    opacity: .5;
+    margin-align: center;
+}
+.story-about{
+	margin-top: 30px;
+	width: 
+}
+
